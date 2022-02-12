@@ -39,3 +39,4 @@ print(inverse)
 ## OUTPUT:
 ![github](inverse.png)
 ## RESULT:
+thus the inverse of the matrix is found.
